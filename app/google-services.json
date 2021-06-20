@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695710505365",
+    "firebase_url": "https://interfacing-system-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "interfacing-system",
+    "storage_bucket": "interfacing-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695710505365:android:f368c33116ee7cf8377e9c",
+        "android_client_info": {
+          "package_name": "com.example.interfacingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695710505365-vjqe0ng8p2o1qvaj0ek45hhjsb0pk3tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpk5uxCtHqIv1Ef_9PoCjwYkZdjXC1GQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695710505365-vjqe0ng8p2o1qvaj0ek45hhjsb0pk3tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
